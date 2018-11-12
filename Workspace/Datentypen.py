@@ -1,3 +1,4 @@
+# Das war die Übung zu Datentypen
 x = 3 * 4 + 1
 print(x * len("Python") < 5)
 
